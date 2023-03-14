@@ -1,0 +1,12 @@
+HOSTNAME=6873493b6f28
+LANGUAGE=en_US:en
+PWD=/root/alx-system_engineering-devops/0x03-shell_variables_expansions
+_=/usr/bin/printenv
+TZ=America/Los_Angeles
+HOME=/
+LANG=en_US.UTF-8
+TERM=xterm
+SHLVL=2
+LC_ALL=en_US.UTF-8
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+OLDPWD=/root/alx-system_engineering-devops
